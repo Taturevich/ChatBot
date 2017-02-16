@@ -1,4 +1,5 @@
 ﻿using AIMLbot;
+using System.Reflection;
 
 namespace BusinessLogic.BotConfiguration
 {
